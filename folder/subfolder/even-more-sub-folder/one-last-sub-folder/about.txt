@@ -1,5 +1,5 @@
 This folder contains a bunch of example files for icon theme testing. None of these files actually work, they are just renamed text documents.
 
-
+Also, thanks for looking through 4 folders to find this!
 
 Except one...
