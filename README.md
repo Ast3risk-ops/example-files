@@ -1,7 +1,7 @@
-# Example-Files
+<div align=center>
+  <h1>Example-Files</h1>
+</div>
 
-Some example files for icon theme testing, will be updated, no files actually work, they are just renamed text files.
+Some example files for icon theme testing.
 
-The GPG key password is: a
-
-Use this when changing your icon theme if you want to know what stuff will look like.
+Use this when changing your icon theme if you want to know what stuff will look like or if your icon theme is actually complete.
