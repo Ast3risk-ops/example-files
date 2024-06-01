@@ -4,6 +4,6 @@
 
 Some example files for icon theme testing.
 
-Use this when changing your icon theme if you want to know what stuff will look like or if your icon theme is actually complete.
+## Instructions
 
-The folders are there if you want to test your VSCode icon theme.
+Just clone this somewhere and open it in VSCode or your file manager. Or show this off or something, I don't care. It's in the public domain.
