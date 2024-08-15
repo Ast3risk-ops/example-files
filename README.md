@@ -6,4 +6,4 @@ Some example files for icon theme testing.
 
 ## Instructions
 
-Just clone this somewhere and open it in VSCode or your file manager. Or show this off or something, I don't care. It's in the public domain.
+Just clone this somewhere and open it in VSCode or your file manager. Or show this off or something, I don't care.
