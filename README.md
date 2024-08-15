@@ -12,3 +12,5 @@ Some example files for icon theme testing.
 4. Open the folder in your file manager or code editor to test its icon theme
 
 This repository gets frequent updates. Be sure to check back regularly.
+
+**Don't forget to ⭐ this repo if you like it.**
