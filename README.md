@@ -1,5 +1,5 @@
 <div align=center>
-  <h1>Example-Files</h1>
+  <h1>Example Files</h1>
 </div>
 
 Some example files for icon theme testing.
